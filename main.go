@@ -7,5 +7,5 @@ func main() {
 }
 
 func Greet() string {
-	return "Hello, World!"
+	return "Hello, Class!"
 }
